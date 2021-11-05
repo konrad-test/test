@@ -1,15 +1,21 @@
 # 1. Pliki i Katalogi
 
-Nazwy folderów są zawsze małymi literami i jeśli występują 2 wyrazy to oddzielamy je “-” przykład: hero-list, parcel-history.
-Tak samo nazywamy plików: hero-list.component.ts, parcel-history.component.ts
-Nie używamy camelCase przy folderach i nazwach plików
+Nazwy folderów są zawsze małymi literami i jeśli występują 2 wyrazy to oddzielamy je <b>“-”</b> przykład: <b>hero-list, parcel-history.</b> <br>
+Tak samo nazywamy plików: <b>hero-list.component.ts</b>, <b>parcel-history.component.ts</b> <br>
+
+<span style="color: red">:warning: **Nie używamy camelCase przy folderach i nazwach plików** </b>
+
+<br>
 
 W zależności czy tworzony plik jest component, guard, service itp dodajemy mu odpowiedni suffix: 
-components -> test.component.ts
-services -> parcel.service.ts
-guards -> parcel.guard.ts
-configs -> parcel.config.ts
+<br>
+<b>
+components -> test.component.ts <br>
+services -> parcel.service.ts <br>
+guards -> parcel.guard.ts <br>
+configs -> parcel.config.ts <br>
 ....
+</b>
  
 ## Struktura katalogów:
 
